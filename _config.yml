@@ -1,6 +1,6 @@
 name: Lucerne FLOW
 favicon: null
-layout_spectrum: 0.09408459416590631
+layout_spectrum: 0.12057
 typography_spectrum: 0.18225323292426765
 title: Lucerne FLOW
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#041044'
+    - '#94abbf'
+    - '#f4eed8'
+    - '#5b738a'
+    - '#113fe0'
   brandStrength: 0.2983282108325511
-  lightness: 0.3359656762331724
-  saturation: 0.9479449857026339
+  lightness: 0.25
+  saturation: 0.875
   rhythmicContrast: 0.7466865349560976
 purpose: []
