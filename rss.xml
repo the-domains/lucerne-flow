@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Lucerne FLOW]]></title>
         <description><![CDATA[Lucerne FLOW]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lucerne-flow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 12:04:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Dec 2015 13:57:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lucerne-flow/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Lucerne FLOW: Friends for Locally Owned Water]]></title>
-            <description><![CDATA[<article><h1>Lucerne FLOW: Friends for Locally Owned Water</h1><p>null</p></article>]]></description>
-            <link>undefinedlucerne-flow-friends-for-locally-owned-water/index.html</link>
+            <description><![CDATA[<article><h1></h1><p></p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c62faf51-9ca0-4301-b926-84d3962dc51f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/lucerne-flow/lucerne-flow-friends-for-locally-owned-water/index.html</link>
             <guid isPermaLink="false">78f11e46-9384-4391-a3c6-708af551d26b</guid>
-            <pubDate>Thu, 17 Dec 2015 12:04:32 GMT</pubDate>
+            <pubDate>Thu, 17 Dec 2015 13:57:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
