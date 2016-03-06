@@ -17,8 +17,8 @@ keywords:
   - approved
   - month
 description: 'Timeline of Water Rates in Lucerne California2004-2014 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 $2.50 $5 $7.50 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 $25 $50 $75 $10 $20 $30 $40 $60 $70 $80 $90 Cost of Water in Lucerne per 100 cubic feet under Cal Water Corporation Cal Water is seeking a 57% rate increase in 2014, which could raise the rates to approximately$12.09 per 100 cubic feet.'
-datePublished: '2016-02-04T12:52:04.161Z'
-dateModified: '2016-02-04T12:50:00.962Z'
+datePublished: '2016-03-06T13:44:47.770Z'
+dateModified: '2016-03-06T13:44:29.633Z'
 author: []
 related: []
 app_links: []
